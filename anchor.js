@@ -264,3 +264,4 @@ function AnchorJS(options) {
 }
 
 var anchors = new AnchorJS();
+module.exports = anchors;
